@@ -28,7 +28,7 @@ Fetches product categories from API
 Adds "All" option for full product list
 
 3. Display Products
-4. 
+
 Fetches products dynamically
 Displays product cards with:
 Image
